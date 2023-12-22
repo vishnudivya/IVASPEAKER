@@ -98,6 +98,7 @@ main .common-button {
 /* footer-menu  */
 
 
+
 .list-unstyled {
     list-style: none;
 }
@@ -190,13 +191,13 @@ main .common-button {
 
 
     /* Footer-container */
+
     #footer-container {
         height: 1230px;
     }
 
     .custom-margin {
         margin: 0;
-
     }
 
     #button {
@@ -277,7 +278,7 @@ main .common-button {
         height: 25vh;
     }
 
-    /* WORLD OF IVA SPEAKER  */
+    /* WORLD OF IVA SPEAKER */
 
     #container-2 .img-custom-element {
         width: 51vw;
@@ -564,9 +565,9 @@ main .common-button {
         height: 40vh;
     }
 
-      /* WORLD OF IVA SPEAKER */
+    /* WORLD OF IVA SPEAKER */
 
-      #container-2 .img-custom-element {
+    #container-2 .img-custom-element {
         width: 100%;
         height: 30vh;
     }
@@ -658,9 +659,9 @@ main .common-button {
         padding: 18vh;
     }
 
-      /* WORLD OF IVA SPEAKER */
+    /* WORLD OF IVA SPEAKER */
 
-      #container-2 .img-custom-element {
+    #container-2 .img-custom-element {
         width: 100%;
         height: 30vh;
     }
@@ -755,9 +756,9 @@ main .common-button {
     }
 
 
-      /* WORLD OF IVA SPEAKER */
+    /* WORLD OF IVA SPEAKER */
 
-      #container-2 .img-custom-element {
+    #container-2 .img-custom-element {
         width: 100%;
         height: 30vh;
     }
